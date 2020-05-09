@@ -1,2 +1,3 @@
 spring.datasource.username: "dushyant-default"
 spring.datasource.password: "passworddefault"
+spring.datasource.database: "oracle"
