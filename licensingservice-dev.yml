@@ -1,2 +1,3 @@
 spring.datasource.username: "dushyant-dev"
 spring.datasource.password: "passworddev"
+spring.datasource.database: "ibatis"
