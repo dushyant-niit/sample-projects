@@ -1,0 +1,2 @@
+spring.datasource.username: "dushyant-default"
+spring.datasource.password: "passworddefault"
